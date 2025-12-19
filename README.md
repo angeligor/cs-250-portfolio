@@ -1,5 +1,10 @@
 # cs-250-portfolio
 
+## Sprint Review and Retrospective
+The Sprint Review and Retrospective deliverable from my final project is included in this repository:
+
+[Sprint Review and Retrospective (PDF)](Sprint%20Review%20and%20Retrospective.pdf)
+
 ### How do I interpret user needs and implement them into a program? How does creating user stories help with this?
 I interpret user needs by focusing first on the value the user expects rather than on the technical implementation details. Creating user stories helps translate abstract requirements into clear, user-centered goals by framing features from the user's perspective and defining what success looks like through acceptance criteria. This approach reduces ambiguity, aligns development with real user expectations, and makes it easier to break work into testable, incremental pieces that can be validated early through feedback.
 
